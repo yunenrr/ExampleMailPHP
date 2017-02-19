@@ -1,19 +1,17 @@
-# Build and Release Folders
-bin/
-bin-debug/
-bin-release/
-[Oo]bj/ # FlashDevelop obj
-[Bb]in/ # FlashDevelop bin
+# NetBeans specific #
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
 
-# Other files and folders
-.settings/
+# Class Files #
+*.class
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+# Package Files #
+*.jar
+*.war
+*.ear
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
